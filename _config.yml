@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
+gems:
+  - jekyll-seo-tag
+
 google_site_verification: kC0156dAJH1tVEdZW99VlAVjqrAGl3ifzHJOU_TYBJE
