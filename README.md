@@ -5,6 +5,8 @@ See python notebook file to see processing code.
 
 나무 위키 데이터베이스 덤프를 이용해서 한국어 말뭉치(Korean corpus, 코퍼스) 를 만드는 파이썬 스크립트 코드입니다.
 
+json 파일을 파싱 후 regex를 이용해서 원하는 형태로 변환합니다.
+
 # 사용하는 입력 데이터
 
 2017년 4월 기준 
